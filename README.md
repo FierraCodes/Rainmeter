@@ -1,2 +1,2 @@
-# Rainmeter
-All of my Rainmeter Modules/Skins
+# Rainmeter-Skins
+Repo for all of my Rainmeter skins & modules
